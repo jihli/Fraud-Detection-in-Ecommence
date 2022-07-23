@@ -24,7 +24,9 @@ Part 9 Model Application
 About the dataset:
 
 E-commerce companys always try to identify users with high-risk for performing fraud activities.
+
 There are two dataset--one named imbalancedFraudDF and the other one named IpAddress_to_Country.
+
 imbalancedFraudDF dataset contains specific user's information including user_id/signup_time/purchase_time/purchase_value/device_id	source/browser/sex/age/ip_address/class
 
 IpAddress_to_Country dataset contains country information corresponding to the ip address range including lower_bound_ip_address/upper_bound_ip_address/country
