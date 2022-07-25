@@ -10,7 +10,7 @@ Part 3 Data Transformation: Identify and Append country info based on ip_addres 
        
 Part 4 Data Split
 
-Part 5 Feature Engineering after Split: Convert categorical features with high cadinality to numericals in train data / Convert categorical features with high cadinality to numericals in test data / Normalization and Standardization separately for train and test data
+Part 5 Feature Engineering after Split: Convert categorical features with high cardinality to numericals in train data / Convert categorical features with high cadinality to numericals in test data / Normalization and Standardization separately for train and test data
   
 Part 6 Model Training: Simple LogisticRegression model / Simple RF model / SMOTE sampling / RF on smoted training data
   
